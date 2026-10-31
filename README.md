@@ -90,7 +90,7 @@ O script utiliza exclusivamente repositórios e imagens oficiais:
 
 # ⚙️ Como funciona
 
-O processo foi dividido em cinco etapas principais.
+O processo foi dividido em cinco etapas principais, descritas a seguir:
 
 ---
 
